@@ -51,7 +51,7 @@ foreach($shows as $show){
 <span><?php echo $show['name']; ?></span>
 <span><?php echo $show['room']; ?></span>
 </div>
-<!-- test -->
+<!-- test this deserve special attention -->
 
 <!-- start of edit and delete div -->
 
