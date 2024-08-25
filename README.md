@@ -6,3 +6,9 @@
 <!-- - 🤔 I’m looking for help with ... -->
 - 📫 How to reach me: shaabandaudi@gmail.com +255 673 742 326
 - 😄 Pronouns: He
+
+#### Technologies (Programming Languages)
+![Technologies](https://skillicons.dev/icons?i=html,css,js,dart,c,cpp,java,python)
+
+#### Frameworks and Libraries
+ ![Frameworks and libraries](https://skillicons.dev/icons?i=react,django,flutter,flask)
