@@ -8,7 +8,7 @@
 - 😄 Pronouns: He
 
 #### Technologies (Programming Languages)
-![Technologies](https://skillicons.dev/icons?i=html,css,js,dart,c,cpp,java,python)
+![Technologies](https://skillicons.dev/icons?i=php,html,css,js,dart,c,cpp,java,python)
 
 #### Frameworks and Libraries
  ![Frameworks and libraries](https://skillicons.dev/icons?i=react,django,flutter,flask)
