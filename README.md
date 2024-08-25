@@ -4,8 +4,7 @@
 <!-- - 🌱 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on laravel, reactjs, nextjs, AI
 <!-- - 🤔 I’m looking for help with ... -->
-- 📫 How to reach me: shaabandaudi@gmail.com +255 673 742 326
-- 😄 Pronouns: He
+- 📫 How to reach me: shaabandaudi@gmail.com +255 673 742 326 [Twitter](https://x.com/SMDKING6)
 
 #### Technologies (Programming Languages)
 ![Technologies](https://skillicons.dev/icons?i=php,html,css,sass,js,dart,c,cpp,java,python)
